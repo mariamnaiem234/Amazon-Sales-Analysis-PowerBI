@@ -18,7 +18,6 @@ The main goal of this project is to transform raw sales data into meaningful bus
 - How do Amazon and Merchant fulfilment contribute to total sales?
 - Which product categories have higher cancellation rates?
 - Which shipping service level is used most frequently?
-- How do B2B and B2C orders differ?
 - Which product sizes have the highest number of cancelled orders?
 
 ---
