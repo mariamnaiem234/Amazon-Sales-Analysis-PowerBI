@@ -69,20 +69,9 @@ The second page provides a detailed analysis of sales, shipping, fulfilment, and
 
 ---
 
-## 📁 Project Structure
+👩‍💻 Author
 
-```text
-Amazon-Sales-Analysis-PowerBI/
-│
-├── README.md
-├── Amazon_Sales_Dashboard.pbix
-│
-├── Dashboard/
-│   ├── DashboardPage1.png.png
-│   └── DashboardPage2.png
-│
-├── Documentation/
-│   └── Data_Dictionary.md
-│
-└── Data/
-    └── README.md
+Mariam Mohamed Naiem
+
+AI Engineering Graduate
+Mansoura University
