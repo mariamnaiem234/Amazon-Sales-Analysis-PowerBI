@@ -3,7 +3,7 @@ Interactive Amazon Sales Analysis Dashboard built with Power BI, Power Query, an
 
 ## 📊 Project Overview
 
-The dashboard analyzes sales performance, order volume, order status, fulfilment methods, cancellation rates, product categories, shipping service levels, B2B/B2C orders, and product size performance.
+The dashboard analyzes sales performance, order volume, order status, fulfilment methods, cancellation rates, product categories, shipping service levels, B2B orders, and product size performance.
 
 The main goal of this project is to transform raw sales data into meaningful business insights using data preparation, DAX measures, and interactive data visualization.
 
