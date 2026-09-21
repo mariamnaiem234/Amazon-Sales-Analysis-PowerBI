@@ -61,11 +61,11 @@ The second page provides a detailed analysis of sales, shipping, fulfilment, and
 
 ### Page 1
 
-![Page 1](Dashboard/Page_1_Overview.png)
+![Page 1](Dashboard/DashboardPage1.png)
 
 ### Page 2
 
-![Page 2](Dashboard/Page_2_Analysis.png)
+![Page 2](Dashboard/DashboardPage2.png)
 
 ---
 
@@ -78,8 +78,8 @@ Amazon-Sales-Analysis-PowerBI/
 ├── Amazon_Sales_Dashboard.pbix
 │
 ├── Dashboard/
-│   ├── Page_1_Overview.png
-│   └── Page_2_Analysis.png
+│   ├── DashboardPage1.png.png
+│   └── DashboardPage2.png
 │
 ├── Documentation/
 │   └── Data_Dictionary.md
